@@ -1,12 +1,12 @@
 <?php
 
 // Put contacting email here
-$php_main_email = "yourmail@gmail.com";
+$php_main_email = "medchihab651@gmail.com";
 
 //Fetching Values from URL
-$php_name = $_POST['ajax_name'];
-$php_email = $_POST['ajax_email'];
-$php_message = $_POST['ajax_message'];
+$php_name = $_POST['name'];
+$php_email = $_POST['email'];
+$php_message = $_POST['message'];
 
 
 
