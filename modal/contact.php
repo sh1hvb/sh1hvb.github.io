@@ -1,7 +1,8 @@
+
 <?php
 
 // Put contacting email here
-$php_main_email = "medchihab651@gmail.com";
+$php_main_email = "medchihab651@protonmail.com";
 
 //Fetching Values from URL
 $php_name = $_POST['name'];
