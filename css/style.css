@@ -455,7 +455,7 @@ h6 { font-size: 16px; }
 	position: relative;
 	float: left;
 	clear: both;
-	background-color: #3c3c3c;
+	background-color: #040008;
 	overflow: hidden;
 }
 .aali_tm_hero .hero_inner{
@@ -2461,7 +2461,7 @@ input[type=number] {
 	height: auto;
 	clear: both;
 	float: left;
-	background-color: #3c3c3c;
+	background-color: #080707;
 	padding: 120px 0px 65px 0px;
 	position: relative;
 }

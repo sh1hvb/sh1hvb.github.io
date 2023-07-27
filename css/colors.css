@@ -1,7 +1,6 @@
 @charset "utf-8";
-.aali_tm_settings .colors li a.blue {
-    background-color: #4169e1;
-}
+.aali_tm_settings .colors li a.Christalle {
+    background-color: #0B525B}
 
 .aali_tm_settings .colors li a.green {
     background-color: #66B95C;
@@ -20,7 +19,7 @@
 }
 
 .aali_tm_settings .colors li a.black {
-    background-color: #333;
+    -color: #333;
 }
 
 .aali_tm_settings .colors li a.purple {
@@ -31,199 +30,156 @@
     background-color: #00D4BD;
 }
 
-.aali_tm_settings .colors li a.cadetBlue {
+.aali_tm_settings .colors li a.cadetChristalle {
     background-color: #5e9e9f;
 }
 
 .aali_tm_settings .colors li a.crimson {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_settings .colors li a.olive {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_settings .colors li a.red {
-    background-color: #fe0000;
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="blue"] .cursor-inner.cursor-hover {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .cursor-inner.cursor-hover {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .cursor-outer {
-    border-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .cursor-outer {
+    border-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .cursor-inner {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .cursor-inner {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_header .menu ul li.current a {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_header .menu ul li.current a {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_header .menu ul li a:hover {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_header .menu ul li a:hover {
+    color: #0B525B}
 
-body.dark .aali_tm_all_wrap[data-color="blue"] .aali_tm_header.animate .menu ul li.current a {
-    color: #4169e1;
-}
+body.dark .aali_tm_all_wrap[data-color="Christalle"] .aali_tm_header.animate .menu ul li.current a {
+    color: #0B525B}
 
-body.dark .aali_tm_all_wrap[data-color="blue"] .aali_tm_header.animate .menu ul li a:hover {
-    color: #4169e1;
-}
+body.dark .aali_tm_all_wrap[data-color="Christalle"] .aali_tm_header.animate .menu ul li a:hover {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_hero .content .name {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_hero .content .name {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_button a {
-    background-color: #4169e1;
-    border-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_button a {
+    background-color: #0B525B    border-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_button a:hover {
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_button a:hover {
     background-color: transparent;
 }
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_hero .avatar .three .in {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_hero .avatar .three .in {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_hero .avatar .one .in {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_hero .avatar .one .in {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_hero .avatar .two .in {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_hero .avatar .two .in {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_hero .five .in {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_hero .five .in {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_hero .socials ul a:hover {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_hero .socials ul a:hover {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_about .center .small {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_about .center .small {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_about .center h3 span {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_about .center h3 span {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_about .square {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_about .square {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_about .right .square {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_about .right .square {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_skills {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_skills {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
     background-color: rgba(65, 105, 225, .72);
 }
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_main_title span {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_main_title span {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_service .square_right {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_service .square_right {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_service .service_list .price span {
-    color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_service .service_list .price span {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_button.border a {
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_button.border a {
     background-color: transparent;
 }
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_button.border a:hover {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_button.border a:hover {
+    background-color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_button.border a:hover svg {
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_button.border a:hover svg {
     color: #fff;
 }
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_button.border .svg {
-    color: #4169e1;
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_button.border .svg {
+    color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_resume .media .square {
+    background-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_resume .main_title span:before {
+    background-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_resume .icon {
+    background-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_testimonials {
+    background-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_news .news_list ul li .details .category a {
+    color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_news .news_list ul li .details .title a:hover {
+    color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_learn_more a {
+    border-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_learn_more a:hover {
+    background-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_counter {
+    background-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_contact .left ul li h3 {
+    color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_contact .left ul li a {
+    color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_copyright .square {
+    background-color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_copyright .social ul li a {
+    color: #0B525B}
+
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_copyright .social ul li a:hover {
+    background-color: #0B525B    color: #fff;
 }
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_resume .media .square {
-    background-color: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_modalbox .service_popup_informations .main_title span span {
+    color: #0B525B}
 
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_resume .main_title span:before {
-    background-color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_resume .icon {
-    background-color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_testimonials {
-    background-color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_news .news_list ul li .details .category a {
-    color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_news .news_list ul li .details .title a:hover {
-    color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_learn_more a {
-    border-color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_learn_more a:hover {
-    background-color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_counter {
-    background-color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_contact .left ul li h3 {
-    color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_contact .left ul li a {
-    color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_copyright .square {
-    background-color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_copyright .social ul li a {
-    color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_copyright .social ul li a:hover {
-    background-color: #4169e1;
-    color: #fff;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_modalbox .service_popup_informations .main_title span span {
-    color: #4169e1;
-}
-
-.aali_tm_all_wrap[data-color="blue"] .aali_tm_service .service_list .icon .svg {
-    fill: #4169e1;
-}
+.aali_tm_all_wrap[data-color="Christalle"] .aali_tm_service .service_list .icon .svg {
+    fill: #0B525B}
 
 .aali_tm_all_wrap[data-color="green"] .cursor-inner.cursor-hover {
     background-color: #66B95C;
@@ -1471,726 +1427,640 @@ body.dark .aali_tm_all_wrap[data-color="sky"] .aali_tm_header.animate .menu ul l
     fill: #00D4BD;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .cursor-inner.cursor-hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .cursor-inner.cursor-hover {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .cursor-outer {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .cursor-outer {
     border-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .cursor-inner {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .cursor-inner {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_header .menu ul li.current a {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_header .menu ul li.current a {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_header .menu ul li a:hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_header .menu ul li a:hover {
     color: #5e9e9f;
 }
 
-body.dark .aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_header.animate .menu ul li.current a {
+body.dark .aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_header.animate .menu ul li.current a {
     color: #5e9e9f;
 }
 
-body.dark .aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_header.animate .menu ul li a:hover {
+body.dark .aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_header.animate .menu ul li a:hover {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_hero .content .name {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_hero .content .name {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_button a {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_button a {
     background-color: #5e9e9f;
     border-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_button a:hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_button a:hover {
     background-color: transparent;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_hero .avatar .three .in {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_hero .avatar .three .in {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_hero .avatar .one .in {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_hero .avatar .one .in {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_hero .avatar .two .in {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_hero .avatar .two .in {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_hero .five .in {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_hero .five .in {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_hero .socials ul a:hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_hero .socials ul a:hover {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_about .center .small {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_about .center .small {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_about .center h3 span {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_about .center h3 span {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_about .square {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_about .square {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_about .right .square {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_about .right .square {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_skills {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_skills {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
     background-color: rgba(94, 158, 159, .72);
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_main_title span {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_main_title span {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_service .square_right {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_service .square_right {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_service .service_list .price span {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_service .service_list .price span {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_button.border a {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_button.border a {
     background-color: transparent;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_button.border a:hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_button.border a:hover {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_button.border a:hover svg {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_button.border a:hover svg {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_button.border .svg {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_button.border .svg {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_resume .media .square {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_resume .media .square {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_resume .main_title span:before {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_resume .main_title span:before {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_resume .icon {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_resume .icon {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_testimonials {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_testimonials {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_news .news_list ul li .details .category a {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_news .news_list ul li .details .category a {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_news .news_list ul li .details .title a:hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_news .news_list ul li .details .title a:hover {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_learn_more a {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_learn_more a {
     border-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_learn_more a:hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_learn_more a:hover {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_counter {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_counter {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_contact .left ul li h3 {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_contact .left ul li h3 {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_contact .left ul li a {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_contact .left ul li a {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_copyright .square {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_copyright .square {
     background-color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_copyright .social ul li a {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_copyright .social ul li a {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_copyright .social ul li a:hover {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_copyright .social ul li a:hover {
     background-color: #5e9e9f;
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_modalbox .service_popup_informations .main_title span span {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_modalbox .service_popup_informations .main_title span span {
     color: #5e9e9f;
 }
 
-.aali_tm_all_wrap[data-color="cadetBlue"] .aali_tm_service .service_list .icon .svg {
+.aali_tm_all_wrap[data-color="cadetChristalle"] .aali_tm_service .service_list .icon .svg {
     fill: #5e9e9f;
 }
 
 .aali_tm_all_wrap[data-color="olive"] .cursor-inner.cursor-hover {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .cursor-outer {
-    border-color: #0DA1F1;
-}
+    border-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .cursor-inner {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_header .menu ul li.current a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_header .menu ul li a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 body.dark .aali_tm_all_wrap[data-color="olive"] .aali_tm_header.animate .menu ul li.current a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 body.dark .aali_tm_all_wrap[data-color="olive"] .aali_tm_header.animate .menu ul li a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_hero .content .name {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_button a {
-    background-color: #0DA1F1;
-    border-color: #0DA1F1;
-}
+    background-color: #0B525B    border-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_button a:hover {
     background-color: transparent;
 }
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_hero .avatar .three .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_hero .avatar .one .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_hero .avatar .two .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_hero .five .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_hero .socials ul a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_about .center .small {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_about .center h3 span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_about .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_about .right .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_skills {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
     background-color: rgba(102, 109, 65, .72);
 }
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_main_title span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_service .square_right {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_service .service_list .price span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_button.border a {
     background-color: transparent;
 }
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_button.border a:hover {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_button.border a:hover svg {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_button.border .svg {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_resume .media .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_resume .main_title span:before {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_resume .icon {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_testimonials {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_news .news_list ul li .details .category a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_news .news_list ul li .details .title a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_learn_more a {
-    border-color: #0DA1F1;
-}
+    border-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_learn_more a:hover {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_counter {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_contact .left ul li h3 {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_contact .left ul li a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_copyright .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_copyright .social ul li a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_copyright .social ul li a:hover {
-    background-color: #0DA1F1;
-    color: #0DA1F1;
-}
+    background-color: #0B525B    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_modalbox .service_popup_informations .main_title span span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_service .service_list .icon .svg {
-    fill: #0DA1F1;
-}
+    fill: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .cursor-outer {
-    border-color: #0DA1F1;
-}
+    border-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .cursor-inner {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header .menu ul li.current a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header .menu ul li a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 body.dark .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header.animate .menu ul li.current a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 body.dark .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header.animate .menu ul li a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .content .name {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button a {
-    background-color: #0DA1F1;
-    border-color: #0DA1F1;
-}
+    background-color: #0B525B    border-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button a:hover {
     background-color: transparent;
 }
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .three .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .one .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .two .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .five .in {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .socials ul a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .center .small {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .center h3 span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .right .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_skills {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
     background-color: rgba(234, 67, 67, .72);
 }
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_main_title span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .square_right {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .service_list .price span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a {
     background-color: transparent;
 }
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a:hover {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a:hover svg {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border .svg {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .media .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .main_title span:before {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .icon {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_testimonials {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_news .news_list ul li .details .category a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_news .news_list ul li .details .title a:hover {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_learn_more a {
-    border-color: #0DA1F1;
-}
+    border-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_learn_more a:hover {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_counter {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_contact .left ul li h3 {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_contact .left ul li a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .square {
-    background-color: #0DA1F1;
-}
+    background-color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .social ul li a {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .social ul li a:hover {
-    background-color: #0DA1F1;
-    color: #0DA1F1;
-}
+    background-color: #0B525B    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_modalbox .service_popup_informations .main_title span span {
-    color: #0DA1F1;
-}
+    color: #0B525B}
 
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .service_list .icon .svg {
-    fill: #0DA1F1;
+    fill: #0B525B}
+
+.aali_tm_all_wrap[data-color="yellow"] .cursor-inner.cursor-hover {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .cursor-inner.cursor-hover {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .cursor-outer {
+    border-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .cursor-outer {
-    border-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .cursor-inner {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .cursor-inner {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_header .menu ul li.current a {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_header .menu ul li.current a {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_header .menu ul li a:hover {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_header .menu ul li a:hover {
-    color: #fe0000;
+body.dark .aali_tm_all_wrap[data-color="yellow"] .aali_tm_header.animate .menu ul li.current a {
+    color: #ff5e94;
 }
 
-body.dark .aali_tm_all_wrap[data-color="red"] .aali_tm_header.animate .menu ul li.current a {
-    color: #fe0000;
+body.dark .aali_tm_all_wrap[data-color="yellow"] .aali_tm_header.animate .menu ul li a:hover {
+    color: #ff5e94;
 }
 
-body.dark .aali_tm_all_wrap[data-color="red"] .aali_tm_header.animate .menu ul li a:hover {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_hero .content .name {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_hero .content .name {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_button a {
+    background-color: #ff5e94;
+    border-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_button a {
-    background-color: #fe0000;
-    border-color: #fe0000;
-}
-
-.aali_tm_all_wrap[data-color="red"] .aali_tm_button a:hover {
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_button a:hover {
     background-color: transparent;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_hero .avatar .three .in {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_hero .avatar .three .in {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_hero .avatar .one .in {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_hero .avatar .one .in {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_hero .avatar .two .in {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_hero .avatar .two .in {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_hero .five .in {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_hero .five .in {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_hero .socials ul a:hover {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_hero .socials ul a:hover {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_about .center .small {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_about .center .small {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_about .center h3 span {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_about .center h3 span {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_about .square {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_about .square {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_about .right .square {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_about .right .square {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_skills {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_skills {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay {
     background-color: rgba(254, 0, 0, .72);
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_main_title span {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_main_title span {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_service .square_right {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_service .square_right {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_service .service_list .price span {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_service .service_list .price span {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_button.border a {
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_button.border a {
     background-color: transparent;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_button.border a:hover {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_button.border a:hover {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_button.border a:hover svg {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_button.border a:hover svg {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_button.border .svg {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_button.border .svg {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_resume .media .square {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_resume .media .square {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_resume .main_title span:before {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_resume .main_title span:before {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_resume .icon {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_resume .icon {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_testimonials {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_testimonials {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_main_title[data-color="light"] span {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_main_title[data-color="light"] span {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_main_title[data-color="light"] h3 {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_main_title[data-color="light"] h3 {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_main_title[data-color="light"] p {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_main_title[data-color="light"] p {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_news .news_list ul li .details .category a {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_news .news_list ul li .details .category a {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_news .news_list ul li .details .title a:hover {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_news .news_list ul li .details .title a:hover {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_learn_more a {
-    border-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_learn_more a {
+    border-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_learn_more a:hover {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_learn_more a:hover {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_counter {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_counter {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_contact .left ul li h3 {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_contact .left ul li h3 {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_contact .left ul li a {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_contact .left ul li a {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_copyright .square {
-    background-color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_copyright .square {
+    background-color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_copyright .social ul li a {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_copyright .social ul li a {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_copyright .social ul li a:hover {
-    background-color: #fe0000;
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_copyright .social ul li a:hover {
+    background-color: #ff5e94;
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_modalbox .service_popup_informations .main_title span span {
-    color: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_modalbox .service_popup_informations .main_title span span {
+    color: #ff5e94;
 }
 
-.aali_tm_all_wrap[data-color="red"] .aali_tm_service .service_list .icon .svg {
-    fill: #fe0000;
+.aali_tm_all_wrap[data-color="yellow"] .aali_tm_service .service_list .icon .svg {
+    fill: #ff5e94;
 }
