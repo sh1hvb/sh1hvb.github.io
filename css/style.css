@@ -770,6 +770,16 @@ h6 { font-size: 16px; }
 .aali_tm_hero .socials ul a:hover{
 	color: #ea4343;
 }
+.aali_tm_hero .socials ul a img.svg,
+.aali_tm_hero .socials ul a img{
+	/* Make raster and SVG images used as social icons display white */
+	filter: brightness(0) invert(1) !important;
+}
+.aali_tm_copyright .social ul li a i,
+.aali_tm_hero .socials ul a i{
+	/* Make icon font glyphs white */
+	color: #fff !important;
+}
 .aali_tm_hero .hero_mail{
 	position: absolute;
 	bottom: 40px;
